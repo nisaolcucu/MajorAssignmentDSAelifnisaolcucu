@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-//problem 1
+// problem 1
 struct Meeting {
     int start;
     int end;
