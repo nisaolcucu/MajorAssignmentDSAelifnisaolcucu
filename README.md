@@ -27,5 +27,5 @@ There is a separate C++ file for each problem. At the beginning of each file are
 
 Follow these steps to resolve any problems:
 1. Open the relevant C++ file.
-2. Compile the file: g++ problem1.cpp -o major_assignment_problem1
+2. Compile the file: g++ problem1.cpp -o major_assignment_problem1.cpp
 3. Run the resulting executable: ./major_assignment_problem1
